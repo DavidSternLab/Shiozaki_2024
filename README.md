@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/808119164.svg)](https://zenodo.org/doi/10.5281/zenodo.11493395)
+
 # Shiozaki_2024
 Code related to Shiozaki, Wang, Lillvis, Xu, Dickson, and Stern (2024) Activity of nested neural circuits drives different courtship songs in Drosophila
 
